@@ -1,2 +1,2 @@
-# DPFS_Micaela_Ver-n-
+# DPFS_Micaela_Veron
 "Desafío Profesional Full Stack - E-commerce"
